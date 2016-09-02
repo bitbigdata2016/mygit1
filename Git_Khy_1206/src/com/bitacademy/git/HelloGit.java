@@ -7,7 +7,7 @@ public class HelloGit {
 		System.out.println("짝한테 하고 싶은말");
 		//주석을 써주세요 1 ^^ -그냥 저장만1
 		//주석 써주세요 2 - 저장만
-
+		//충돌 테스트1	
 	}
 
 }
